@@ -1,2 +1,0 @@
-# SmartContract
-BlockChain
